@@ -13,15 +13,3 @@ Este proyecto incluye:
 - Imágenes y visualizaciones
 - Código listo para ejecutar
 
-## Cómo ejecutar
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/tu_usuario/ShorAlgorithm.git
-cd ShorAlgorithm
-
-# Instalar dependencias
-pip install -r requirements.txt
-
-# Ejecutar el algoritmo
-python src/shor.py
