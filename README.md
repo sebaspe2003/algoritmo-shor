@@ -1,4 +1,5 @@
 # algoritmo-shor
+# JOHN SEBASTIAN PEÑA SANCHEZ
 # Shor's Algorithm (Quantum Integer Factorization)
 
 Este proyecto contiene una implementación simplificada del **algoritmo de Shor**, un algoritmo cuántico diseñado para factorizar enteros grandes de forma eficiente. En teoría, puede romper muchos de los sistemas criptográficos actuales.
