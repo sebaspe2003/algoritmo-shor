@@ -4,7 +4,7 @@
 
 Este proyecto contiene una implementación simplificada del **algoritmo de Shor**, un algoritmo cuántico diseñado para factorizar enteros grandes de forma eficiente. En teoría, puede romper muchos de los sistemas criptográficos actuales.
 
-## 📘 Descripción
+## Descripción
 El algoritmo de Shor permite factorizar un número compuesto \( N \) en tiempo polinomial usando computación cuántica, resolviendo un problema que es exponencialmente difícil para las computadoras clásicas.
 
 Este proyecto incluye:
@@ -13,7 +13,7 @@ Este proyecto incluye:
 - Imágenes y visualizaciones
 - Código listo para ejecutar
 
-## ▶️ Cómo ejecutar
+## Cómo ejecutar
 
 ```bash
 # Clonar el repositorio
